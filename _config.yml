@@ -31,7 +31,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I love programmable devices and making things. 
+about_me_description: I am a recently graduated electrical engineering student who took all of his electives in computer science and computer engineering. Currently in programming I am working at increasing my experience in system level programming with C, desktop applications with c++, and continuing practicing android mobile development. I am also finishing up a publication and hardware development for a flexible ppg based blood flow analysis device.  
 
 # SKILLS SECTION
 # show_skills_card:
@@ -62,11 +62,11 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Selected projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Selected Projects
 
