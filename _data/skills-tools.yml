@@ -31,3 +31,9 @@
 
 - name: make/cmake
   weight: 2
+  
+- name: Valgrind
+  weight: 2
+
+- name: GDB
+  weight: 2
