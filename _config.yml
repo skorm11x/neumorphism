@@ -14,7 +14,7 @@ baseurl: ""
 username: Christopher J. Kosik
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Welcome
+typing_text: Developer and Engineer
 # email: Your E-Mail address for the email button.
 email: kosik.chris.j@gmail.com
 # For every social button you want to display, set your username or userid
@@ -31,7 +31,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Yo
+about_me_description: I love programmable devices and making things. 
 
 # SKILLS SECTION
 # show_skills_card:
@@ -78,7 +78,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Yo
+contact_description: Contact me if you are interested in building something together!
 
 # GITHUB-METADATA
 # Set this to your forked repository
