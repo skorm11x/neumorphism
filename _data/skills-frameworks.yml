@@ -5,12 +5,6 @@
 # - name: Framework
 #   weight: 5
 
-- name: Valgrind
-  weight: 2
-
-- name: GDB
-  weight: 2
-
 - name: React
   weight: 3
 
