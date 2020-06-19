@@ -26,11 +26,8 @@
 - name: npm
   weight: 2
 
-- name: gulp
-  weight: 4
-
-- name: VS Code
+- name: VIM
   weight: 3
 
-- name: Postman
-  weight: 4
+- name: make/cmake
+  weight: 2
